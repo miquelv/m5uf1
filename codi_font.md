@@ -33,6 +33,8 @@ no pot ser directament executat.
 * La segona fase tradueix el llenguatge intermedi a un llenguatge comprensible
 per la màquina.
 
+![Maquines virtuals](maquines_virtuals_compilacio.png)
+
 La **màquina virtual Java (JVM)** és l’entorn en què s’executen els programes Java.
 És un programa natiu, és a dir, executable en una plataforma específica, que és
 capaç d’interpretar i executar instruccions expressades en un **codi de bytes** o (el
