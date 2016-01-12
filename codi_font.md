@@ -22,3 +22,18 @@ generant un arxiu executable.
 
 Una **llibreria** és una col·lecció de codi predefinit que facilita la tasca del programador
 a l’hora de codificar un programa.
+
+El concepte de **màquina virtual** sorgeix amb l’objectiu de facilitar el desenvolupament
+de compiladors que generen codi per a diferents processadors.
+
+La **compilació** consta de dues fases:
+* La primera parteix del codi font a un llenguatge intermedi obtenint un
+programa equivalent amb un menor nivell d’abstracció que l’original i que
+no pot ser directament executat.
+* La segona fase tradueix el llenguatge intermedi a un llenguatge comprensible
+per la màquina.
+
+La **màquina virtual Java (JVM)** és l’entorn en què s’executen els programes Java.
+És un programa natiu, és a dir, executable en una plataforma específica, que és
+capaç d’interpretar i executar instruccions expressades en un **codi de bytes** o (el
+bytecode de Java) que és generat pel compilador del llenguatge Java.
