@@ -16,7 +16,7 @@ més petites de programes amb tasques específiques, que se subdivideixen en alt
 subprogrames, cada vegada més petits. La idea és que aquests subprogrames
 típicament anomenats funcions o procediments han de resoldre un únic objectiu o
 tasca.
-
+___
 
 ####Paradigma d’objectes
 
@@ -36,14 +36,14 @@ ells a través de missatges (crides a mètodes).
 
 La programació orientada a objectes es basa en la integració de 5 conceptes:
 **abstracció, encapsulació, modularitat, jerarquia i polimorfisme**.
-
+___
 
 ####Paradigma funcional
 
 Està basat en un model matemàtic. La idea és que el resultat d’un càlcul és l’entrada del següent, i així successivament fins que una composició produeixi el resultat desitjat.
 
 Exemple: Lisp.
-
+___
 
 ####Paradigma lògic
 
@@ -51,4 +51,3 @@ Té com a característica principal l’aplicació de les regles
 de la lògica per inferir conclusions a partir de dades.
 
 Exemple: Prolog.
-
