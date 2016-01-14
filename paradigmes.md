@@ -1,4 +1,4 @@
-**Paradigma imperatiu/estructurat**
+####Paradigma imperatiu/estructurat
 
 Hi freqüenten les sentències imperatives, és a dir aquelles que indiquen dur a terme una determinada operació que modifica les dades guardades en memòria.
 
@@ -18,7 +18,7 @@ típicament anomenats funcions o procediments han de resoldre un únic objectiu 
 tasca.
 
 
-**Paradigma d’objectes**
+####Paradigma d’objectes
 
 Conegut com a **Programació Orientada
 a Objectes** (**POO**, o _**OOP**_ en anglès), és un paradigma de construcció de
@@ -35,15 +35,20 @@ programació, per tant, els programes són conjunts d’objectes que interactuen
 ells a través de missatges (crides a mètodes).
 
 La programació orientada a objectes es basa en la integració de 5 conceptes:
-abstracció, encapsulació, modularitat, jerarquia i polimorfisme.
+**abstracció, encapsulació, modularitat, jerarquia i polimorfisme**.
 
 
+####Paradigma funcional
 
-**Paradigma funcional**
+Està basat en un model matemàtic. La idea és que el resultat d’un càlcul és l’entrada del següent, i així successivament fins que una composició produeixi el resultat desitjat.
+
+Exemple: Lisp.
 
 
+####Paradigma lògic
 
-**Paradigma lògic**
+Té com a característica principal l’aplicació de les regles
+de la lògica per inferir conclusions a partir de dades.
 
-
+Exemple: Prolog.
 
